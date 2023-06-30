@@ -1,0 +1,5 @@
+@-moz-document domain(lichess.org) {
+    piece.knight.white {
+        background-image: url("https://spaceblog.dk/img/others/horsey_with_hat.png")!important;
+    }
+}
