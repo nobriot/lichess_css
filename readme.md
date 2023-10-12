@@ -18,6 +18,7 @@ Images are base64 encoded in the CSS file. You can select only the knights
 or black king customizations if you like only one of them.
 
 At the end, it looks like this:
+
 ![pieces_with_customizations](./assets/pieces_with_customizations.png).
 
 ## Modify the images/assets
